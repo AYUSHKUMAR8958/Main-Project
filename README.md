@@ -1,3 +1,4 @@
 # THIS IS NEW PROJECT
 
-created by AYUSH KUMAR
+created by AYUSH KUMAR. 
+Structured ny Ayush Kumar.
